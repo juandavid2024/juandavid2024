@@ -1,0 +1,7 @@
+Definir la lista de canales disponibles
+Inicialización sobre la cant de canales
+Identificar si canal encontrado 
+No lo encontre = No 
+Almacen de informacion cant 
+Final de canales 199
+Fin de busquedad 
